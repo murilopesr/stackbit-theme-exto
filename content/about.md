@@ -1,13 +1,12 @@
 ---
 title: About Us
-subtitle: >-
-  This is a short page about us and our work.
+subtitle: This is a short page about us and our work.
 img_path: images/about.jpg
-menus:
+layout: page
+menu:
   main:
     weight: 4
-    title: About
-template: page
+    name: About
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
