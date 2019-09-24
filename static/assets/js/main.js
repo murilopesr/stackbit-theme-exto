@@ -1,3 +1,4 @@
+window.onGatsbyRouteUpdate = function() {
 /**
  * Main JS file for theme behaviours
  */
@@ -27,3 +28,5 @@ if (menuToggle) {
     }
   }, true);
 }
+
+};
